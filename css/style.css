@@ -1,0 +1,50 @@
+body {
+  background-color:black;
+  color: white;
+  font-family: 'Righteous', cursive;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  color: red;
+  font-size: 400%;
+}
+
+#clock {
+  border:3px solid green;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-bottom:30px;
+
+}
+
+.breakInterval {
+  border:3px solid red !important;
+}
+
+.clockbutton {
+  background-color:transparent;
+  border-color:transparent;
+}
+
+.clockbuttonpause {
+  
+}
+
+.time {
+  font-size:150%;
+}
+
+#timer {
+  padding-top:110px;
+  font-size:400%;
+}
+
+.control {
+  background-color:transparent;
+  border:transparent;
+  
+}
+
+
